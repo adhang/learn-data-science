@@ -9,6 +9,6 @@ This is my documentation on learning data science. It contains some of my projec
 ![image](https://user-images.githubusercontent.com/29569758/153331041-00270c70-1aa6-48a0-922e-736f673c5c54.png)
 
 ## Links
-- [GiHub](https://github.com/adhang)
+- [GitHub](https://github.com/adhang)
 - [Kaggle](https://www.kaggle.com/adhang)
 - [Linkedin](https://www.linkedin.com/in/adhangmuntaha/)
