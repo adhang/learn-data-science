@@ -9,7 +9,8 @@ This is my documentation on learning data science. It contains some of my projec
 
 ![image](https://user-images.githubusercontent.com/29569758/153331041-00270c70-1aa6-48a0-922e-736f673c5c54.png)
 
-## Links
-- [GitHub](https://github.com/adhang)
-- [Kaggle](https://www.kaggle.com/adhang)
-- [Linkedin](https://www.linkedin.com/in/adhangmuntaha/)
+## Find Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adhangmuntaha/)](https://www.linkedin.com/in/adhangmuntaha/)
+[![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/adhang)](https://github.com/adhang)
+[![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/adhang)](https://www.kaggle.com/adhang)
+[![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&link=https://public.tableau.com/app/profile/adhang)](https://public.tableau.com/app/profile/adhang)
