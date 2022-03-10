@@ -4,8 +4,9 @@ This is my documentation on learning data science. It contains some of my projec
 
 ## Notes
 - I build my projects from various places, such as local Jupyter Notebook, Google Colab, or Kaggle
-- For some reason, I won't upload all the datasets used in my projects (but I'll try to provide as much as I can!)
-- If my project is created on Kaggle, you can open the Notebook file and easily click `Open in Kaggle` to see the dataset
+- For some reason, I won't upload all the datasets used in my projects (for example: you can read the 4th point below). But I'll try to provide as much as I can!
+- If my project is created on Kaggle, you can open the Notebook file and easily click `Open in Kaggle` to see the detailed dataset description and files
+- I recommend visiting Kaggle because some people shared multiple datasets variation such as `train.csv`, `test.csv`, `var_130k_row.csv`, `var_full_row.csv`, etc on a single page
 
 ![image](https://user-images.githubusercontent.com/29569758/153331041-00270c70-1aa6-48a0-922e-736f673c5c54.png)
 
